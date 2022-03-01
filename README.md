@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-s-daund-3a07361b5/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shrikantdaund0693@gmail.com "Connect via Email")
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pramodwankhade16/?hl=en "Connect via Instagram") -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shrikantdaund0693.shrikantdaund0693)
 
 🏡 &nbsp; I am from Ambad, Maharashtra.  
@@ -18,8 +17,12 @@
 
 <br>  
 
-### Frameworks
+### Frameworks and Libraries
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 #### Programming Languages
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
