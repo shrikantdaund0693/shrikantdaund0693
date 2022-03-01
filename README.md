@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-s-daund-3a07361b5/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shrikantdaund0693@gmail.com "Connect via Email")
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shrikantdaund0693.shrikantdaund0693)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shrikantdaund0693.shrikantdaund0693) -->
 
 🏡 &nbsp; I am from Ambad, Maharashtra.  
 🎓 &nbsp; Currently pursuing B.Tech in Computer Science and Engineering at Government College of Engineering, Aurangabad.  
